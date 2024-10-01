@@ -11,6 +11,9 @@ env/
 ENV/
 .venv/
 
+# Golang
+go.sum
+
 # Environment variables
 .env
 *.env
